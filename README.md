@@ -1,6 +1,4 @@
-# fashion_recommendation_ML_Model_Dl_Model
-
-# 👗 AI Fashion Recommendation System
+# Fashion Recommendation System
 
 An intelligent Fashion Recommendation System powered by Machine Learning and Deep Learning that delivers personalized fashion suggestions using image similarity, feature extraction, and recommendation algorithms.
 
